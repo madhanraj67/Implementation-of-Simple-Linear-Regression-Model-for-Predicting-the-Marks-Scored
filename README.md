@@ -67,7 +67,20 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![Screenshot 2024-02-23 113616](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/7c8d0f44-399a-4a52-9109-be17c60e642f)
+
+
+
+
+
+![Screenshot 2024-02-23 113801](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/29810b1e-0781-4338-a6ba-b7b8e2d30316)
+
+
+![Screenshot 2024-02-23 113838](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/7509ecba-284d-4c04-86a7-2932b5e439af)
+
+![Screenshot 2024-02-23 113905](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/6e3d9021-fbe2-421f-a1bc-2902ccd99ff5)
+
+![Screenshot 2024-02-23 113933](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/6574b4f6-3e55-4ff6-9e1e-35b78c86ec66)
 
 
 ## Result:
